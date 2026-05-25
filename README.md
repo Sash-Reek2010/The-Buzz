@@ -24,6 +24,6 @@ The PCB is also made in KiCAD!
 ## Try it out!
 
 
-https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSash-Reek2010%2FThe-Buzz%2Ftree%2Fmain%2FSource
+[KiCanvas Link](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSash-Reek2010%2FThe-Buzz%2Ftree%2Fmain%2FSource)
 
 ## Thanks for Reading. - Sashreek!
