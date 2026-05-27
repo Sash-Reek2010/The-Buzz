@@ -1,5 +1,5 @@
 # The Buzz
-A PCB which buzzes! You can change the tone and frequency using the potentiometers and make cool buzz combinations! It features the LM556 timer as the main IC here!
+A PCB which buzzes! You can change the tone and frequency using the potentiometers and make cool buzz combinations! It features the LM556 timer as the main IC here! The buzzers used here are passive piezo buzzers.
 
 ## Schematic
 The schematic is made in KiCAD!
