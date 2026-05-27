@@ -5,21 +5,24 @@ A PCB which buzzes! You can change the tone and frequency using the potentiomete
 The schematic is made in KiCAD!
 
 
-<img width="519" height="251" alt="buzz 4" src="https://github.com/user-attachments/assets/768e11d8-2f9b-4c8a-9546-00688589dc8f" />
+<img width="562" height="269" alt="Buzz 4" src="https://github.com/user-attachments/assets/edbcc883-dce7-4cb3-bb7f-12fceb623902" />
+
 
 ## PCB
 The PCB is also made in KiCAD!
 
 
-<img width="300" height="383" alt="Buzz 1" src="https://github.com/user-attachments/assets/46e8bf0d-ab44-4317-b75c-cf124ffd80d3" />
+<img width="228" height="294" alt="Buzz 1" src="https://github.com/user-attachments/assets/5f791e6f-b156-45d5-ad15-9c1a98a22a49" />
 
 
-<img width="303" height="380" alt="buzz 2" src="https://github.com/user-attachments/assets/6c5b1871-790c-49e4-9f15-31564dc1e214" />
+<img width="229" height="295" alt="Buzz 2" src="https://github.com/user-attachments/assets/f2c6e9b6-9247-4ed1-b128-1d44436a975b" />
+
 
 ## PCB View
 
 
-<img width="428" height="407" alt="buzz 3" src="https://github.com/user-attachments/assets/3ba6b3d5-f230-4e9c-bbdf-8a559638ded7" />
+<img width="283" height="407" alt="Buzz 3" src="https://github.com/user-attachments/assets/1afdfc43-cece-4f45-9708-05dee668b983" />
+
 
 ## Try it out!
 
